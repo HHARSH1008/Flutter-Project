@@ -97,10 +97,10 @@ flutter run
 
 > 📷 Add screenshots of your application here.
 
-| Home Screen | Login Screen |
+| Home Screen | 
 |-------------|--------------|
 | <img width="422" height="640" alt="Screenshot 2026-07-17 101536" src="https://github.com/user-attachments/assets/2acd2903-0daf-4a12-883c-d2656aefd5ff" />
- | *(Add Image)* |
+
 
 ---
 
